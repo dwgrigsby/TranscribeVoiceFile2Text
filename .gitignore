@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+api-key.json
+parts/
+venv
+*.flac
+transcript.txt
+silent-matter*.json
+converted/
+.vscode/
