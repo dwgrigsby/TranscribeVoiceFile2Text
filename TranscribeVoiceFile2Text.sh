@@ -5,7 +5,7 @@ shopt -s nullglob
 export SOURCE_HOME="$HOME"
 export SOURCE_PATH_OF_VOICE_MEMO="$HOME/GStorage/GCLLC_STORAGE/Documents/Voice_Recordings"
 export SOURCE_PATH_TO_PARTS_FROM_HOME="$HOME/Audio/parts"
-export SOURCE_PROJECT_LOCATION="/Projects/forked/speech-to-text"
+export SOURCE_PROJECT_LOCATION="/Projects/github.com/cloned/TranscribeVoiceFile2Text"
 export SOURCEFFMPEG="/usr/local/bin/ffmpeg"
 export SOURCEPYTHON="/usr/local/bin/python3"
 
