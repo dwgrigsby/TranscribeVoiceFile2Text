@@ -1,11 +1,17 @@
 # TranscribeVoiceFile2Text
-Transcribe Voice File to Text
+<img src="https://blog.grigsbyconsultingllc.com/wp-content/uploads/GCLLC-Button-130x130.gif" height="130" align="right">
+
+# Transcribe Voice File to Text
+
+[**Happy Path Use Case**](#happy-path-use-case)&ensp;|&ensp;[**Gratitude & Credit**](#gratitude-and-credit)&ensp;|&ensp;[**v1.00**](https://github.com/dwgrigsby/TranscribeVoiceFile2Text/releases)
+
+![Screen shot of Terminal post bash script completion](https://blog.grigsbyconsultingllc.com/wp-content/uploads/gif-Flow-smaller.gif)
 
 # Vision
 End goal is to have a solution that works as follows on MacOS, iOS, Windows, Android, Chromium, Linux and using the respective Speech to Text | Transcribe and Storage APIs via Google Cloud, Amazon AWS, Microsoft Azure respectively.
 
 # Happy Path Use Case
-#### Working: at present v1.0
+#### Working: at present Release v1.00
 
 Via Siri or manually open up the voice memo app on Mac or iPhone and take a voice memo then save the voice memo with a descriptive name if desired and share to your Google Drive. Via terminal run Bash Shell TranscribeVoiceMemo2Text.sh  to transcribe the voice memo file on Google Drive showing in finder via Google Drive sync or stream and when it's complete it would move the voice memo to a processed folder with the transcript.txt copied there as well with the same name as the voice memo.
 
@@ -33,7 +39,7 @@ Review wiki for Blog articles and videos as you may have to update xcode, brew a
 5. Save Google Cloud private api key (silent*) as api-key.json in the Project folder.
 6. Try it out! and then use VSCode to debug and step through the BASH file and the Python File to learn how it works and enjoy the benefits of generating high quality text via voice from meetings, lectures or personal voice memos for notes and content.
 
-#### Gratitude and Credit
+# Gratitude and Credit
 Gratitude, Credit and tip of hat to Alex Kras for GitHub Project https://github.com/akras14/speech-to-text which was the begining point for this project along with an excellent blog article overview.
 
 
