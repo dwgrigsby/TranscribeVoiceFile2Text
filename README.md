@@ -40,7 +40,7 @@ Review wiki for Blog articles and videos as you may have to update xcode, brew a
 6. Try it out! and then use VSCode to debug and step through the BASH file and the Python File to learn how it works and enjoy the benefits of generating high quality text via voice from meetings, lectures or personal voice memos for notes and content.
 
 # Gratitude and Credit
-Gratitude, Credit and tip of hat to Alex Kras for GitHub Project https://github.com/akras14/speech-to-text which was the begining point for this project along with an excellent blog article overview.
+Gratitude, Credit and tip of hat to Alex Kras for GitHub Project https://github.com/akras14/speech-to-text which was the beginning point for this project along with an excellent blog article overview.
 
 
 
